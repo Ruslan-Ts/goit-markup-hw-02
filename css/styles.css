@@ -88,6 +88,8 @@ color: var(--accent-color);
 }
 
 .hero-btn {
+    font-family: 'Roboto';
+    font-style: normal;
     font-weight: 700;
     font-size: 16px;
     line-height: 1.88;
@@ -111,7 +113,7 @@ color: var(--accent-color);
 .benefits-text {
     font-weight: 400;
     font-size: 14px;
-    line-height: 1.71px;
+    line-height: 1.71;
     letter-spacing: 0.03em;
     color: var(--text-second-color);
 }
@@ -183,6 +185,8 @@ background-color: #F5F4FA;
 /* Portfolio */
 
 .nav-projects-btn {
+    font-family: 'Roboto';
+    font-style: normal;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.63;    
